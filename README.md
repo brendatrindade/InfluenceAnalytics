@@ -23,7 +23,7 @@ Com o crescimento das redes sociais, sobretudo do Instagram, a análise de métr
 - `Relatorio_Completo.pdf`: Contém o relatório técnico completo, com todos os detalhes sobre o desenvolvimento e análise do modelo.
 - InfluenceAnalytics/   
 ├── `README.md` : Contém a documentação do projeto   
-├── `regrassão.py` : Contém o código completo do projeto em python
+├── `regrassão.py` : Contém o código completo do projeto em python    
 ├── `top_insta_influencers_data.csv` : Contém o Dataset utilizado no modelo
 
 
