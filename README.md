@@ -24,6 +24,7 @@ Com o crescimento das redes sociais, sobretudo do Instagram, a análise de métr
 - InfluenceAnalytics/   
 ├── `README.md` : Contém a documentação do projeto   
 ├── `regrassão.py` : Contém o código completo do projeto em python
+├── `top_insta_influencers_data.csv` : Contém o Dataset utilizado no modelo
 
 
 ## 🚀 Como Usar
