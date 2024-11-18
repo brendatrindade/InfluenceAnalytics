@@ -1,6 +1,6 @@
 # Relatório Técnico: Implementação e Análise do Algoritmo de Regressão Linear
 
-Este projeto apresenta a implementação e análise de um modelo de Regressão Linear para prever a taxa de engajamento de influenciadores no Instagram. 
+Este projeto apresenta a implementação e análise de um modelo de Regressão Linear para prever a taxa de engajamento de influenciadores no Instagram, analisamos a relação entre variáveis como seguidores, curtidas médias e pontuação de influência, oferecendo insights estratégicos para marcas e criadores de conteúdo.
 
 ## 📋 Descrição do Projeto
 Com o crescimento das redes sociais, a análise de métricas de engajamento tornou-se essencial para criadores de conteúdo e marcas. Este relatório detalha:
@@ -24,7 +24,7 @@ Com o crescimento das redes sociais, a análise de métricas de engajamento torn
 ## 🚀 Como Usar
 1. Faça o download ou clone este repositório:
    ```bash
-   git clone https://github.com/brendatrindade/Projeto_Unidade9.git
+   git clone https://github.com/brendatrindade/InfluenceAnalytics.git
 
 2. Acesse o arquivo Relatorio_Completo.pdf para consultar os detalhes do projeto.
 
